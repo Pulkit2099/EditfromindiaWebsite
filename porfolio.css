@@ -1,0 +1,94 @@
+#DIV_1{
+
+  justify-content: center;
+background-image: url("./images/home.jpg");
+}
+#cls{
+   /* border: 2px solid rgb(31, 30, 30); */
+   text-align: center;
+}
+
+#p{
+    text-align: center;
+    margin-top: 10px;
+    font-size:larger;
+
+}
+.button{
+    justify-content: center;
+    align-items: center;
+   
+    margin-top: 4.;
+    display: grid;
+}
+  
+#btn{
+   text-align: center;
+   align-items: center;
+   color: aliceblue;
+   background-color: black;
+   margin-top: 1.5cm;
+   border-radius: 12px;
+
+
+}
+
+#divv{
+    margin-top: 2cm;
+      justify-content:space-around;
+      display: flex;
+}
+
+.container{
+    display:grid;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+.item {
+    margin: 5px;
+   }
+
+.i1{
+    justify-content:stretch;
+    align-items: center;
+    display: inline-flex;
+    margin-left: 4cm;
+   
+}
+.i2{
+    justify-content:stretch;
+    align-items: center;
+    display: inline-flex;
+    margin-left: 2.5cm;
+
+}
+
+/* .ass{
+   
+    align-items: end;
+        border: 2px solid rgb(169, 45, 45);
+ display:inline-flexbox;
+    padding-left: 30cm;
+   margin-left: 10cm;
+} */
+#right{
+    align-items: center;
+
+    display: inline-block;
+    padding-left: 16cm;
+    
+    
+}
+.add{
+    margin-top: 2cm;
+   align-items: center;
+   /* padding-left: 16cm; */
+  text-align: center;
+}
+
+.img3{
+    margin-top: 10cm;
+    padding-left: 20cm;
+    padding-bottom: 20cm;
+}
